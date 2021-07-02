@@ -1,3 +1,5 @@
+# update: 可以在*envy 15 as109tu*上成功安装非常感谢. 
+
 # HP ENVY - 15-as110tu for macOS Catalina 10.15.1/macOS Mojave 10.14.4/macOS High Sierra 10.13.6 
 这是我使用的HP as110tu的Clover引导文件和驱动，完美程度99%了，目前还存在的问题：
 * 可能电池有损耗，电量显示相差6%。
